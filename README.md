@@ -51,7 +51,7 @@
 
 ###
 <br clear="both">
-<img src="https://raw.githubusercontent.com/3mmar3bdalkber/3mmar3bdalkber/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/3mmar3bdalkber/3mmar3bdalkber/snake.svg" alt="Snake animation" />
 ###
 
 <h2 align="left">Contact With me</h2>
