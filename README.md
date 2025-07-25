@@ -1,7 +1,5 @@
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75590&center=true&vCenter=true&width=700&lines=Hi+there+👋+My+name+is+Ammar+Abdalkber" alt="Typing SVG" />
-</h1>
+<!-- in my self i think that can do more and more-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&background=18FF55AC&vCenter=true&multiline=true&repeat=false&width=435&separator=%3C&lines=%2F%2FHi+There%3C+Name+%3D+%22Ammar+Abdalkber%22;%3CTitle+%3D+%22Full+Stack+using+PHP%22;%3Cinterest+%3D+%22Cybersecurity+Pen+testing%22;" alt="Typing SVG" /></a>
 
 ---
 
@@ -11,7 +9,8 @@
 - 🎓 Studying **Cybersecurity & Computer Science**
 - 🛠️ Currently building web apps using **Laravel + PHP + MySQL**
 - 🌱 Learning more about **Python** and **backend frameworks**
-
+  
+> 💡 *"I truly believe that I can always do more, achieve more, and grow stronger — it all starts with belief in myself."*
 ---
 
 ## ⚒️ Tech Stack
@@ -35,8 +34,21 @@
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ammarabdalkber) 
-- 📫 Email: 1234amarabdalkber@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammarabdalkber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100057312282337" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://x.com/3mmar_3bdulkber" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="mailto:1234amarabdalkber@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
