@@ -12,7 +12,7 @@
 <h3 align="center">Full Stack Using PHP | Interest in Cybersecurity pen testing</h3>
 
 ###
-<a href="https://github.com/3mmar3bdalkber?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile+;you+can++check+my+repositories;Just+click+on..." alt="Typing SVG" /></a>
+<a href="https://github.com/3mmar3bdalkber?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&color=00AF11&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile;you+can++check+my+repositories;Just+click+on..." alt="maro identifier" /></a>
 
 ###
 
@@ -84,6 +84,9 @@
   <a href="https://www.instagram.com/ammar_abdalkber/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+    <a href="https://codeforces.com/profile/Ammar_FCI_Leader"> <!-- Codeforces Profile -->
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40"/>
+    </a>
 </div>
 
 ###
@@ -94,7 +97,7 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <a href="https://wa.me/20120848615" target="_blank">
+  <a href="https://wa.me/201208486015" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="mailto:1234amarabdalkber@gmail.com" target="_blank">
