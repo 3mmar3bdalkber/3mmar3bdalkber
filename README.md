@@ -2,12 +2,20 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"  />
 </div>
 
-<a href="https://github.com/3mmar3bdalkber?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=50&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=550&height=150&separator=%3C&lines=%2F%2F+Hi+There%3CName+%3D+%22Ammar+Abdalkber%22;%3CTitle+%3D+%22Full+Stack+using+PHP%22;%3Cinterest+%3D+%22Cybersecurity+Pen+testing%22;" alt="Maro READ ME" /></a>
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"  />
 </div>
 
+###
+
+<h1 align="center">I'm Ammar Abdalkber</h1>
+
+###
+
+<h3 align="center">Full Stack Using PHP | Interest in Cybersecurity pen testing</h3>
+
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&multiline=true&repeat=false&width=500&height=150&lines=Welcome+to+my+GitHub+profile+;you+can++check+my+repositories;Just+click+on...)](https://git.io/typing-svg)
 
 ###
 
