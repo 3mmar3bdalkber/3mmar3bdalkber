@@ -12,7 +12,7 @@
 <h3 align="center">Full Stack Using PHP | Interest in Cybersecurity pen testing</h3>
 
 ###
-<a href="https://github.com/3mmar3bdalkber?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&center=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile+;you+can++check+my+repositories;Just+click+on..." alt="Typing SVG" /></a>
+<a href="https://github.com/3mmar3bdalkber?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile+;you+can++check+my+repositories;Just+click+on..." alt="Typing SVG" /></a>
 
 ###
 
