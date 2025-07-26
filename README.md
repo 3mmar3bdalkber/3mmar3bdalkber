@@ -15,7 +15,7 @@
 <h3 align="center">Full Stack Using PHP | Interest in Cybersecurity pen testing</h3>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&multiline=true&repeat=false&width=500&height=150&lines=Welcome+to+my+GitHub+profile+;you+can++check+my+repositories;Just+click+on...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&multiline=true&repeat=false&width=500&height=100&lines=Welcome+to+my+GitHub+profile+;you+can++check+my+repositories;Just+click+on...)](https://git.io/typing-svg)
 
 ###
 
