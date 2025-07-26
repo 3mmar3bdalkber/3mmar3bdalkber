@@ -4,11 +4,22 @@
 
 <a href="https://github.com/3mmar3bdalkber?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=50&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=550&height=150&separator=%3C&lines=%2F%2F+Hi+There%3CName+%3D+%22Ammar+Abdalkber%22;%3CTitle+%3D+%22Full+Stack+using+PHP%22;%3Cinterest+%3D+%22Cybersecurity+Pen+testing%22;" alt="Maro READ ME" /></a>
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"  />
+</div>
+
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">- CS Student , faculty of computers and information minia university <br><br>-  I'm a passionate Full Stack Web Developer and cybersecurity<br><br>-  Studying Cybersecurity & Computer Science<br><br>-  Currently building web apps using Laravel + PHP + MySQL<br><br>-  Learning more about  Python and backend frameworks</p>
+
+###
+
+<h2 align="left">languages & tools</h2>
 
 ###
 
@@ -50,12 +61,8 @@
 </div>
 
 ###
-## 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/3mmar3bdalkber/3mmar3bdalkber.github/workflows/snake.yml" alt="Snake animation" />
-
-
-<h2 align="left">Contact With me</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
@@ -72,8 +79,18 @@
   <a href="https://www.instagram.com/ammar_abdalkber/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="http://t.me/Ammar_Abdulkber" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact with me</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://wa.me/20120848615" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="mailto:1234amarabdalkber@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
