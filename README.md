@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- CS Student , faculty of computers and information minia university <br><br>-  I'm a passionate Full Stack Web Developer and cybersecurity<br><br>-  Studying Cybersecurity & Computer Science<br><br>-  Currently building web apps using Laravel + PHP + MySQL<br><br>-  Learning more about  Python and backend frameworks</p>
+<p align="left">- CS Student , faculty of computers and information minia university <br><br>-  I'm a passionate Full Stack Web Developer and cybersecurity<br><br>-  Currently building web apps using Laravel + PHP + MySQL<br><br>-  Learning more about PHP and backend frameworks</p>
 
 ###
 
