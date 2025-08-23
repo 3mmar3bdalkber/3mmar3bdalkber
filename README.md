@@ -14,7 +14,7 @@
 ###
 <div align="center">
   <a href="https://github.com/3mmar3bdalkber?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=👋+Welcome+to+my+GitHub+Profile!;🚀+Explore+my+Projects+and+Repositories;✨+Click+here+to+discover+more..." alt="GitHub Profile Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Welcome+to+my+GitHub+Profile!;Explore+my+Projects+and+Repositories;Click+here+to+discover+more..." alt="GitHub Profile Animation" />
   </a>
 </div>
 
