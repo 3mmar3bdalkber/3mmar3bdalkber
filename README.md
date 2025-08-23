@@ -72,21 +72,21 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ammarabdalkber" target="_blank">
+  <a href="https://www.linkedin.com/in/ammarabdalkber" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/3mmar_3bdulkber" target="_blank">
+  <a href="https://x.com/3mmar_3bdulkber" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100057312282337" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100057312282337" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/ammar_abdalkber/" target="_blank">
+  <a href="https://www.instagram.com/ammar_abdalkber/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-    <a href="https://codeforces.com/profile/Ammar_FCI_Leader"> <!-- Codeforces Profile -->
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40"/>
-    </a>
+  <a href="https://codeforces.com/profile/Ammar_FCI_Leader" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40" alt="codeforces logo"/>
+  </a>
 </div>
 
 ###
@@ -96,16 +96,18 @@
 ###
 
 <div align="left">
-  <a href="https://t.me/Ammar_Abdulkber" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://t.me/Ammar_Abdulkber" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://wa.me/201208486015" target="_blank">
+  <a href="https://wa.me/201208486015" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:1234amarabdalkber@gmail.com" target="_blank">
+  <a href="mailto:1234amarabdalkber@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+
 _Thank you and Feel free to explore my projects!_
+
