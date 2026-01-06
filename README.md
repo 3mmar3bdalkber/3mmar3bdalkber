@@ -1,6 +1,3 @@
-it s still fix error then send all Readme
-
-it s still fix error then send all Readme
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"  />
 </div>
@@ -60,24 +57,6 @@ it s still fix error then send all Readme
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
 </div>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<!-- <h2 align="left">GitHub Stats</h2>
-
-<div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3mmar3bdalkber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="150" alt="languages graph" />
-
-  <!--
-  <img src="https://streak-stats.demolab.com?user=3mmar3bdalkber&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  -->
-
-</div> -->
 
 
 ###
