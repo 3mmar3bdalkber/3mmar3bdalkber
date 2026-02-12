@@ -11,12 +11,13 @@
 <h3 align="center">Web Penetration Testing | Interested in Data Analysis</h3>
 
 ###
+
 <div align="center">
   <a href="https://github.com/3mmar3bdalkber?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Welcome+To+My+GitHub;Learn+Web+Penetration+Testing;Learn+Data+Analysis;Feel+Free+to+Explore..." alt="GitHub Profile Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=FF6B6B&center=true&vCenter=true&multiline=true&width=850&height=140&lines=Welcome+To+My+GitHub;Web+Penetration+Testing;Data+Analysis;Feel+Free+To+Explore+Repositories" alt="Awesome Typing Animation" />
   </a>
-    <br>
-  <sub style="color:#666; font-size:14px;">✨ Ammar · Code with passion · Build with purpose ✨</sub>
+  <br>
+  <sub style="color:#A0A0A0; font-size:15px; letter-spacing:1px;">Ammar Abdalkber · Code with passion · Build with purpose</sub>
 </div>
 
 ###
