@@ -2,24 +2,21 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"  />
 </div>
 
-
 ###
 
 <h1 align="center">I'm Ammar Abdalkber</h1>
 
 ###
 
-<h3 align="center">Full Stack Using PHP | Interest in Cybersecurity pen testing</h3>
+<h3 align="center">Web Penetration Testing | Interested in Data Analysis</h3>
 
 ###
-
 <div align="center">
   <a href="https://github.com/3mmar3bdalkber?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=👋+Welcome+To+My+GitHub!; Feel+Free+to+Explore+My+Work; Innovation+%7C+Code+%7C+Creativity; Click+Here+to+Discover+Repositories" alt="Welcome To My GitHub" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Welcome+To+My+GitHub;Learn+Web+Penetration+Testing;Learn+Data+Analysis;Feel+Free+to+Explore..." alt="GitHub Profile Animation" />
   </a>
-
-  <br>
-  <sub style="color:#666; font-size:14px;">✨ 3mmar3bdalkber · Code with passion · Build with purpose ✨</sub>
+    <br>
+  <sub style="color:#666; font-size:14px;">✨ Ammar · Code with passion · Build with purpose ✨</sub>
 </div>
 
 ###
@@ -28,11 +25,11 @@
 
 ###
 
-<p align="left">- CS Student , faculty of computers and information minia university <br><br>-  I'm a passionate Full Stack Web Developer and cybersecurity<br><br>-  Currently building web apps using Laravel + PHP + MySQL<br><br>-  Learning more about PHP and backend frameworks</p>
+<p align="left">- CS Student, Faculty of Computers and Information, Minia University <br><br>- Learning Web Penetration Testing and Data Analysis<br><br>- Building skills in cybersecurity and data analytics<br><br>- Passionate about securing web applications and analyzing data</p>
 
 ###
 
-<h2 align="left">languages & tools</h2>
+<h2 align="left">Languages & Tools</h2>
 
 ###
 
@@ -59,7 +56,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
 </div>
-
 
 ###
 
@@ -102,5 +98,5 @@
 
 ###
 
-_Thank you, And Feel Free Bro<br>
-**Ammar Abdalkber**_
+_Thank you, And Feel Free Bro<br>_
+**Ammar Abdalkber**
