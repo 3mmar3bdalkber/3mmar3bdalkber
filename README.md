@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <a href="https://github.com/3mmar3bdalkber?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=850&height=140&lines=Welcome+To+My+GitHub;Web+Penetration+Testing;Data+Analysis;" alt="Awesome Typing Animation" />
+  </a>
+</div>
+
 ###
 
 <h2 align="left">About me</h2>
