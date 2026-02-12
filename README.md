@@ -12,13 +12,15 @@
 <h3 align="center">Full Stack Using PHP | Interest in Cybersecurity pen testing</h3>
 
 ###
+
 <div align="center">
   <a href="https://github.com/3mmar3bdalkber?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Welcome+to+my+GitHub+Profile!;Explore+my+Projects+and+Repositories;Click+here+to+discover+more..." alt="GitHub Profile Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=👋+Welcome+To+My+GitHub!; Feel+Free+to+Explore+My+Work; Innovation+%7C+Code+%7C+Creativity; Click+Here+to+Discover+Repositories" alt="Welcome To My GitHub" />
   </a>
+
+  <br>
+  <sub style="color:#666; font-size:14px;">✨ 3mmar3bdalkber · Code with passion · Build with purpose ✨</sub>
 </div>
-
-
 
 ###
 
