@@ -69,7 +69,7 @@
   <a href="https://codeforces.com/profile/Ammar_FCI_Leader" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40" alt="codeforces logo"/>
   </a>
-    <a href="https://x.com/Ammar_Abdalkber" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/3mmar_3bdulkber" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100057312282337" target="_blank" rel="noopener noreferrer">
