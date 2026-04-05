@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">- CS Student, Faculty of Computers and Information, Minia University <br>- Learning **Web Penetration Testing** and**Data Analysis** <br>- **Data Analysis:** Excel (Power Pivot, DAX), Power BI, SQL (MySQL, SQL Server), Python (Pandas, NumPy)<br>- **Development:** PHP, Laravel, MySQL, RESTful APIs<br><br>
+<p align="left">- CS Student, Faculty of Computers and Information, Minia University <br>- Learning <b>Web Penetration Testing</b> and<b>Data Analysis</b>
+  <br>- <b>Data Analysis</b>: Excel (Power Pivot, DAX), Power BI, SQL (MySQL, SQL Server), Python (Pandas, NumPy)<br>
+  - <b>Development</b>: PHP, Laravel, MySQL, RESTful APIs<br><br>
 <i>
   My focus is on cleaning, analyzing, and visualizing data to help businesses make smarter, data-driven decisions.
 </i>
