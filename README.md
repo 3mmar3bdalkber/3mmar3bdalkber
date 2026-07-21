@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/3mmar3bdalkber?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Data+Analysis+%7C+Business+Intelligence;Power+BI+%2B+Tableau+%2B+Excel+Dashboards;Python+%2B+SQL+%2B+Machine+Learning" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Data+Analysis+%7C+Business+Intelligence;Power+BI+%2B+Tableau+%2B+Excel+Dashboards;Python+%2B+SQL+%2B+Machine+Learning" alt="Typing Animation" />
   </a>
 </div>
 <div align="center">
@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -61,19 +61,19 @@
       <br>Scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
+      <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" width="48" height="48" alt="Tableau" />
       <br>Tableau
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
+      <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Excel-Workbook.png" width="48" height="48" alt="Excel" />
       <br>Excel / DAX
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -95,7 +95,7 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -111,21 +111,21 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -133,7 +133,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
@@ -149,7 +149,7 @@
       <br>Red Hat
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/xgboost/1560A2" width="48" height="48" alt="XGBoost" />
+      <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="48" height="48" alt="XGBoost" />
       <br>XGBoost
     </td>
     <td align="center" width="96">
@@ -158,6 +158,7 @@
     </td>
   </tr>
 </table>
+
 ---
  
 ## Featured Projects
