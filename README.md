@@ -191,21 +191,23 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
 </div>
+
 ---
  
 ## Learning Profiles
  
 <div align="left">
   <a href="https://codeforces.com/profile/Ammar_FCI_Leader" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40" alt="codeforces logo" />
   </a>
   <a href="https://www.kaggle.com/ammarabdalkber" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kaggle.svg" width="52" height="40" alt="kaggle logo" />
   </a>
   <a href="https://public.tableau.com/app/profile/ammar.abdalkber.abdelqader/vizzes" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" width="52" height="40" alt="tableau logo" />
   </a>
 </div>
-<br>
-_Thanks You and Feel Free Bro_
-**— Ammar Abdelkabir**
+
+*Thanks You and Feel Free Bro*
+
+**_Ammar Abdelkabir_**
