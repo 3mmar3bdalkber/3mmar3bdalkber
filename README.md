@@ -169,43 +169,43 @@
   
 ---
 
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
+## Contact With Me
+ 
 <div align="left">
   <a href="https://www.linkedin.com/in/ammarabdalkber" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <a href="https://codeforces.com/profile/Ammar_FCI_Leader" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40" alt="codeforces logo"/>
+  <a href="https://x.com/3mmar_3bdulkber" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter" />
   </a>
-    <a href="https://x.com/3mmar_3bdulkber" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100057312282337" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook" />
   </a>
-</div>
-
-###
-
-<h2 align="left">Contact with me</h2>
-
-###
-
-<div align="left">
   <a href="https://t.me/Ammar_Abdalkber" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
   </a>
   <a href="https://wa.me/201208486015" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp" />
   </a>
-  <a href="mailto:1234amarabdalkber@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:ammarabdalkber@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
 </div>
-
-###
-
-_Thank you, And Feel Free Bro<br>_
-**Ammar Abdalkber**
+---
+ 
+## Learning Profiles
+ 
+<div align="left">
+  <a href="https://codeforces.com/profile/Ammar_FCI_Leader" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.kaggle.com/ammarabdalkber" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/ammar.abdalkber.abdelqader/vizzes" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
+  </a>
+</div>
+<br>
+_Thanks You and Feel Free Bro_
+**— Ammar Abdelkabir**
